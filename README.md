@@ -8,8 +8,6 @@
 Python Version: 3.7
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, flask, pickle
 
-Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
-
 Data set: https://www.baseball-reference.com/leagues/MLB/2019-standard-batting.shtml
 
 # Data Collection and Cleaning
